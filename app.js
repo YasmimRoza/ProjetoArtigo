@@ -6,7 +6,7 @@ const path = require('path')
 
 const Posts = require('./db/posts.js')
 
-mongoose.connect('mongodb+srv://root:QuPga5CSgTOMRymR@cluster0.h2bbh.mongodb.net/dankicode?retryWrites=true&w=majority', {useNewUrlParser: true, useUnifiedTopology: true}).then(function(){
+mongoose.connect('link para conexão com o banco', {useNewUrlParser: true, useUnifiedTopology: true}).then(function(){
     console.log('Conectado com sucesso!')
 }).catch(function(err){
     console.log(err.message)
