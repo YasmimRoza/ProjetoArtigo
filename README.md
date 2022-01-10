@@ -1,7 +1,7 @@
 # Projeto de Artigos
 
-## Utilizando MongoDB Atlas, e Recuperação de informações no banco
+<p>Projeto simples de manipulação de informações no banco de dados.</p>
 
-Projeto simples de manipulação de informações, com o front end e o back end, as recuperando.
-
+- Com Html5 e CSS3.
+- Utilizando MongoDB Atlas, NodeJS com Javascript.
 - Projeto realizado no curso da Danki Code
